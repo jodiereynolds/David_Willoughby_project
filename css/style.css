@@ -1,0 +1,74 @@
+h1 {
+	font-family: "Helvetica", "sans-serif";
+	font-size: 30px;
+	font-weight: bold;
+	float: left;
+	color: black;
+	margin-left: 20px;
+	margin-top: 25px;	
+}
+
+h2 {
+	font-family: "Helvetica", "sans-serif";
+	font-size: 25px;
+	font-weight: bold;
+	float: none;
+	color: black;
+}
+
+nav {
+	background-color: white;
+	color: black;	
+	font-family: "Helvetica", "sans-serif";
+	font-size: 14px;
+	font-weight: normal;
+}
+
+a {
+	background-color: white;
+	color: black;
+	text-decoration: none; 
+	display: block;
+	float: right;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: "";	
+	clear: both;
+	height: 0px;	
+	font-size: 0;
+}
+
+img {
+	width: 100%;
+}
+
+.article {
+  width: 240px;
+  padding: 10px;
+  margin: 0 10px;
+  float: left;
+}
+
+#article1 {
+  background-color: #eaeaea;
+  text-align: center;
+}
+
+#article2 {
+  background-color: #eaeaea;
+  text-align: center;
+}
+
+.footer {
+	font-family: "Helvetica", sans-serif;
+	font-size: 12px;
+	text-align: left;
+	text-decoration: none;
+}
+
+
